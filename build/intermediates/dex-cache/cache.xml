@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\0394399e09848a6ac67e87b9af35967c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9c0cef4ce809a6ee34010d54f6138d1e8d235d4">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.android.support\collections\28.0.0-alpha3\a037a9517c0b0bdaae96b21128534af4ba706c0c\collections-28.0.0-alpha3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a037a9517c0b0bdaae96b21128534af4ba706c0c">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c5b47de28223071fd25379bd3fa38778\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.3\bde0667d7414c16ed62d3cfe993cff7f9d732373\constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\7402d28d78fdf9d94ad32eb55960dd77\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="471a0e96e0fc638d9eae68aa906b0052cbe14fac">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9e4b021fc07bf80baa07f172218506a4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\61174ef2634bd8ca0398b14a3dff2b7f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\d86165bbddad60f6b14920ceab1eb3d4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="537e2fb8aa75e9574f18123053a2c6b47cd241c3">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\2b1bdcf1602a01a5fe5ad8223c9effed\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="105953d608941a7353c7ba8bb87ffd6d15c72373">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\ab6daacac0615b9c94b1ce16efba3f29\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f01d56e9ac0093c28f83b6c84d2d8cf31a4c227a">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\21d228ccf0fc7f79039d5ecd71727696\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6dd3aad3f1c8ed7d03f1756788751481d5b58829">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\a61abe9207106704d2984b74d8e7dd3c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad84528bb52eaa5f248cd754253b4799fea5e20">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\2c2635e7ac3bd34059c4617eb6ab6814\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="30a491b00a400e48f1c5fc29a544c6ec24a200a2">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\c2befb3dd5024c18f80d67bc9f04a7c7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="52a7a9366ae3e86f3dc962b398e0ffdd00147a67">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\34328992868c4c832cdf146fb0aec4bd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="28a853e2897305b41fe2bc82652a697f057cf7d8">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\072ade8bf5259ee8f54d2d847ecc6ee6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7298c47c29053c12eae9038bcd5e1ca1a4edd2a8">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.1\e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95\common-1.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\31750149edc6dbdf5c37a2c46aaf0155\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="adb8a75987034c4189515222e4ce7e62ef3d2679">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.1\207a6efae6a3555e326de41f76bdadd9a239cbce\common-1.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\c37337c27236c179cf46b9d24e950eb1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b537d18c3d70135922eed311c8e6ae80d04db2ae">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\756477f8894eca4abf264ae050e1b30c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="440c2908c8171527c59dab969313cd5d99384689">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\99dd9bb22ed599d77c2595bfaf682882\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fed88a0b8c6cdbc858f18a65574ea5a3f8e91f43">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\ba5dd943e484ecb09d2d5def4d8dcda0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b81123d49492aa92bb9aceece799f960184ffd86">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\dd3db5ca1aeda7496bcd0cc637709ea1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="672ef9f35ed1907ab7d0933a3e1601fc780e86d7">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\c84a578ad7d3e05161e42ded452a6c2a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b323f6b6f5f5b5ec38f8076a8e773a24b556803f">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\8390a0af9b8a7c2ded847bb297dcdb46\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="62f1ae285dbc36e987d202665e0b115cb89ad766">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\f73ab7b875af061c58c8aa9ccd232ca3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f13389655eb804a474ffa38b106b6ebe70fbd72a">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f719d0153145653b6673eaffb598a16b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\79093ee8c523fbf079bc13c06e1c3dc0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="83c20c43f6dd99bc8a2f650338e300b51b0322f1">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a94e8129d0e49d63489fe68ad9371706\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\196ad8d7c84dd721cd2ec7564ca4f943\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3421928d94dccb4ea5f5884ef994a449b1f59b94">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\28.0.0-alpha3\7f23bd602124f31bda99edc5ee8a3bee209dae67\support-annotations-28.0.0-alpha3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7f23bd602124f31bda99edc5ee8a3bee209dae67">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\4798d06524890c9e450cf6c9a9914f61\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1dc0edf859b7207ab1d84505a91550ad764fba08">
+        <dex dex="E:\My_Work\Android\InstantDownloader\app\build\intermediates\transforms\preDex\release\46.jar" />
+    </item>
+
+</items>
