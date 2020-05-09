@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/md_white_1000</item>
+        <item name="colorPrimaryDark">@color/md_white_1000</item>
+        <item name="colorAccent">@color/md_blue_500</item>
+        <item name="android:textColor">@color/md_grey_700</item>
+        <item name="android:statusBarColor">@color/md_blue_500</item>
+    </style>
+
+    <style name="ToolbarTitleText" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">@color/md_blue_500</item>
+        <item name="android:fontFamily">@font/source_sans_semibold</item>
+    </style>
+
+    <style name="SourceSansRegular">
+        <item name="android:fontFamily">@font/source_sans_regular</item>
+    </style>
+
+    <style name="SourceSansLight">
+        <item name="android:fontFamily">@font/source_sans_light</item>
+    </style>
+
+    <style name="SourceSansSemibold">
+        <item name="android:fontFamily">@font/source_sans_semibold</item>
+    </style>
+
+</resources>

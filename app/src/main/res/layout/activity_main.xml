@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/md_grey_100"
+    tools:context="com.jainchiranjeev.instantdownloader.MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/toolbar_main_activity"
+        android:elevation="4dp"
+        app:titleTextAppearance="@style/ToolbarTitleText"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/scrollView"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/toolbar_main_activity"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:id="@+id/scrollView">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="4dp"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:id="@+id/options1"
+            app:cardBackgroundColor="@color/md_white_1000"
+            app:layout_constraintTop_toBottomOf="@id/toolbar_main_activity"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <android.support.v7.widget.SwitchCompat
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="32dp"
+                    android:paddingTop="16dp"
+                    android:paddingBottom="16dp"
+                    android:paddingRight="32dp"
+                    android:text="@string/activate"
+                    style="@style/AppTheme"
+                    android:trackTint="@color/switch_colors"
+                    android:thumbTint="@color/switch_colors"
+                    android:id="@+id/activateSwitch"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="32dp"
+                    android:paddingTop="8dp"
+                    android:paddingRight="32dp"
+                    android:paddingBottom="16dp"
+                    android:textSize="12sp"
+                    android:text="@string/activate_desc"/>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:id="@+id/options2"
+                app:cardBackgroundColor="@color/md_white_1000"
+                app:layout_constraintTop_toBottomOf="@id/options1"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent">
+
+                <android.support.v7.widget.SwitchCompat
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="32dp"
+                    android:paddingTop="16dp"
+                    android:paddingRight="32dp"
+                    android:paddingBottom="16dp"
+                    android:text="@string/start_on_boot"
+                    style="@style/AppTheme"
+                    android:trackTint="@color/switch_colors"
+                    android:thumbTint="@color/switch_colors"
+                    android:id="@+id/startOnBootSwitch"/>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:id="@+id/options3"
+                app:cardBackgroundColor="@color/md_white_1000"
+                app:layout_constraintTop_toBottomOf="@id/options2"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <android.support.v7.widget.SwitchCompat
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="32dp"
+                        android:paddingTop="16dp"
+                        android:paddingBottom="16dp"
+                        android:paddingRight="32dp"
+                        android:text="@string/download_multiple"
+                        style="@style/AppTheme"
+                        android:trackTint="@color/switch_colors"
+                        android:thumbTint="@color/switch_colors"
+                        android:id="@+id/downloadMultiple"/>
+
+                    <android.support.v7.widget.AppCompatTextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="32dp"
+                        android:paddingTop="8dp"
+                        android:paddingRight="32dp"
+                        android:paddingBottom="16dp"
+                        android:textSize="12sp"
+                        android:text="@string/download_multiple_desc"/>
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:id="@+id/options4"
+                app:cardBackgroundColor="@color/md_white_1000"
+                app:layout_constraintTop_toBottomOf="@id/options3"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <android.support.v7.widget.AppCompatButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/md_white_1000"
+                        android:textColor="@color/md_blue_500"
+
+                        android:textSize="16sp"
+                        android:padding="8dp"
+                        android:layout_marginTop="16dp"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginRight="16dp"
+                        android:layout_marginBottom="8dp"
+                        android:text="Do not kill"
+                        android:id="@+id/optimisationButton"/>
+
+                    <android.support.v7.widget.AppCompatTextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="32dp"
+                        android:paddingTop="8dp"
+                        android:paddingRight="32dp"
+                        android:paddingBottom="16dp"
+                        android:textSize="12sp"
+                        android:text="@string/doNotKillDescription"/>
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

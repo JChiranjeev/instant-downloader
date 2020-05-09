@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Instant Downloader</string>
+    <string name="admob_id_test">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_id">ca-app-pub-4827451464615132/9427418832</string>
+    <string name="start_on_boot">Start on boot</string>
+    <string name="activate">Activate Downloader</string>
+    <string name="download_multiple">Download multiple</string>
+    <string name="download_multiple_desc">Downloads all media from a post containing multiple images/videos</string>
+    <string name="activate_desc">Activate the background service that downloads pictures in the background</string>
+    <string name="doNotKillDescription"><![CDATA[Keep Android System from killing the app process in background.  Select All Apps from dropdown > Click Instant Downloader > Do not Optimise]]></string>
+</resources>
